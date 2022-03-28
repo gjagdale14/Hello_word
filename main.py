@@ -18,3 +18,5 @@ def hello():
     print('Hello')
 
 hello()
+
+print('Hello word')
